@@ -1,0 +1,9 @@
+[package]
+name = "synaptic_protocol"
+edition = "2024.beta"
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "367fd808279bed26f7c64fc63160062a2ee29ab7" }
+
+[addresses]
+synaptic_protocol = "0x0"

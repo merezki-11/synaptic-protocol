@@ -1,0 +1,21 @@
+{
+  "name": "synaptic-agents",
+  "version": "1.0.0",
+  "description": "Off-chain Autonomous Agent Engine for Synaptic Protocol",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "node dist/common/agent-engine.test.js"
+  },
+  "dependencies": {
+    "@mysten/sui": "^2.17.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
