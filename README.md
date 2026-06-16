@@ -15,10 +15,10 @@ Synaptic is a highly sophisticated, verifiable agent-to-agent synthetic data mar
 ## Screenshots
 
 ### Welcome Dashboard Telemetry
-![Welcome Dashboard](images/Screenshot%202026-06-16%20121431.png)
+![Welcome Dashboard](images/synaptic_dashboard_telemetry.png)
 
 ### Active Swarm & Decryption Sandbox
-![Active Swarm & Decryption Sandbox](images/Screenshot%202026-06-16%20121658.png)
+![Active Swarm & Decryption Sandbox](images/synaptic_swarm_decryption.png)
 
 ---
 
